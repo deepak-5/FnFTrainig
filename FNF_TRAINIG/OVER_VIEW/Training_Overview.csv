@@ -1,5 +1,4 @@
-# C#,
-"OOAD & UML; Functional Programming ,   C# ",3 Weeks,
+"OOAD & UML; Functional Programming ,   C# ",3 Weeks
 Programming Paradigms ,
 OOAD & UML; Functional Programming,
 " C# Essentials (Collections, Generics, Linq, Serialization etc..)",
@@ -8,11 +7,7 @@ Advanced C# concepts,
 "Asynchronous programming, Parallel programming, Reflections",
 "Design Principles & Patterns - Structatural, Behavioural, Creational patterns",
 "SOLID, DRY, YAGNI, KISS",
-
-
-#AZURE,
-
-"Azure, Azure Devops and Deployment Infrastructure",1 Week,
+"Azure, Azure Devops and Deployment Infrastructure",1 Week
 Code repository - Git introduction,
 Devops Basics,
 "Azure Cloud Introduction
@@ -36,11 +31,6 @@ Azure Security Center and Azure Security",
 Code management and branching strategy in azure devops,
 Containrnizing using Dockers,
 Container Management Using Kubernetes - Azure Container and Kubernetes Service,
-
-
-#DBMS,
-
-
 Database Management,1 Week
 "What is RDBMS
 RDBMS Architecture
@@ -69,12 +59,6 @@ OWASP risks and Mitigation Techniques, Secure Coding Practices",
 Introduction To Microservice Architetcure,
 Buidling Microservices Using .Net Core / .Net 6 / .Net 7,
 Connect Service to DataBase using ORM (EF) and repository pattern,
-
-
-#WEB DEVELOPMENT ,3 Weeks,
-
-##HTML5,
-
 UI Development,3 Weeks
 HTML 5,
 Introduction to Web Programming,
@@ -84,12 +68,6 @@ Semantic Tags,
 Responsive Design + PWA,
 HTTP/2,
 "Storage: Local, Session, IndexedDB, File System",
-
-
-##CSS,
-
-
-
 CSS,
 "Rules, Selectors and Property values",
 "Cascading, Inheritance, Specificity",
@@ -103,7 +81,6 @@ Responsive Design - Mobile first etc.,
 CSS-in-JS,
 Responsive Building Blocks,
 "CSS Frameworks - SASS, LESS",
-##JAVASCRIPT ,
 JAVA Script & AJAX,
 JAVA Script fundamentals,
 "Data Structures - Arrays, Objects, Composites",
@@ -159,8 +136,4 @@ Catch /Gtest and Nunit/MsTest basics,
 Dependnecy Mgmt,
 Mock/Stub,
 Code coverage & Profiling - sonarqube,
-
-##PROJECT,
-
-
 Project,2 Weeks
