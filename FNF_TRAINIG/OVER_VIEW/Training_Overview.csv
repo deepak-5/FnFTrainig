@@ -1,5 +1,5 @@
-# C#
-"OOAD & UML; Functional Programming ,   C# ",3 Weeks
+# C#,
+"OOAD & UML; Functional Programming ,   C# ",3 Weeks,
 Programming Paradigms ,
 OOAD & UML; Functional Programming,
 " C# Essentials (Collections, Generics, Linq, Serialization etc..)",
@@ -12,7 +12,7 @@ Advanced C# concepts,
 
 #AZURE,
 
-"Azure, Azure Devops and Deployment Infrastructure",1 Week
+"Azure, Azure Devops and Deployment Infrastructure",1 Week,
 Code repository - Git introduction,
 Devops Basics,
 "Azure Cloud Introduction
@@ -103,9 +103,7 @@ Responsive Design - Mobile first etc.,
 CSS-in-JS,
 Responsive Building Blocks,
 "CSS Frameworks - SASS, LESS",
-
 ##JAVASCRIPT ,
-
 JAVA Script & AJAX,
 JAVA Script fundamentals,
 "Data Structures - Arrays, Objects, Composites",
